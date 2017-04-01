@@ -1,5 +1,5 @@
-# Anarchy #
-![Anarchy Logo](https://dl.dropbox.com/u/365419/anarchy3.png "Anarchy Logo") 
+# AnarchyTerisk #
+![Anarchy Logo](https:/// "Anarchy Logo") 
 
 A tool with the intend to help installing the amazing Arch Linux distribution. With the Anarchy Project you'll be able to automatize the installation using a simple script.
 
